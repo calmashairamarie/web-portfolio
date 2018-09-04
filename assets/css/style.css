@@ -1,0 +1,59 @@
+
+#me {
+
+	height: 300px;
+	width:  250px;
+	border-radius: 50%;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	margin-top: 50px;
+
+}
+
+.footer{
+	color:red;
+	margin-top: 100px; 
+}
+.container{
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+}
+h1 {
+	margin-bottom: 0;
+	text-transform: uppercase;
+	letter-spacing: 3px; 
+	color:red;
+	
+
+}
+h2 {
+	text-transform: uppercase;
+	letter-spacing: 5px; 
+	color:black;
+	font-family: 'Lobster', cursive;
+
+}
+p {
+	color:#FF33E9;
+	font-family: 'Cookie', cursive;
+	
+}
+
+body {
+	background-color: #ccc;
+	background-image: url('../images/Electronic-eng-1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+
+}
+
+.about{
+	text-align: left;
+	width: 100%;
+	line-height: 1.5;
+	font-size: 18px;
+
+}
